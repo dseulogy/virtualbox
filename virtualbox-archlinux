@@ -1,0 +1,19 @@
+Using with linux kernel;
+
+linux
+linux-headers
+virtualbox
+virtualbox-host-modules-arch
+
+Using with linux-lts kernel;
+
+linux-lts
+linux-lts-headers
+virtualbox
+virtualbox-host-dkms
+
+THis is interesting because; VirtualBox GPU works kinda NVIDIA?
+
+Or atleast QEMU work directly from kernel.
+
+BTW Virtualbox Gaming better than QEMU gaming, total 2+ FPS better.

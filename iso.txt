@@ -1,0 +1,9 @@
+https://bike.seedhost.eu/arcolinux/iso/arcolinuxd-v20.11.9-x86_64.iso
+https://dotsrc.dl.osdn.net/osdn/storage/g/m/ma/manjaro/kde/20.2-rc3/manjaro-kde-20.2-rc3-201122-linux59.iso
+https://dotsrc.dl.osdn.net/osdn/storage/g/m/ma/manjaro/xfce/20.2-rc3/manjaro-xfce-20.2-rc3-201122-linux59.iso
+https://dotsrc.dl.osdn.net/osdn/storage/g/m/ma/manjaro/gnome/20.2-rc3/manjaro-gnome-20.2-rc3-201122-linux59.iso
+https://mirrors.rit.edu/solus/images/4.1/Solus-4.1-Budgie.iso
+https://mirrors.rit.edu/solus/images/4.1/Solus-4.1-GNOME.iso
+http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso
+http://download.opensuse.org/distribution/leap/15.2/iso/openSUSE-Leap-15.2-DVD-x86_64.iso
+https://ftp.halifax.rwth-aachen.de/osdn/storage/g/l/li/linuxlite/5.2/linux-lite-5.2-64bit.iso

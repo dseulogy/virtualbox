@@ -1,0 +1,5 @@
+sudo pacman -S linux-headers virtualbox virtualbox-guest-iso
+
+sudo mkinitcpio -P
+
+sudo update-grub
